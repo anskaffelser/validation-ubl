@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildConfigurations xmlns="http://difi.no/xsd/vefa/validator/1.0">
+	<configuration>
+		<identifier alias="applicationresponse">ubl-applicationresponse-2.2</identifier>
+		<title>UBL ApplicationResponse 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-ApplicationResponse-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="attacheddocument">ubl-attacheddocument-2.2</identifier>
+		<title>UBL AttachedDocument 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-AttachedDocument-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="awardednotification">ubl-awardednotification-2.2</identifier>
+		<title>UBL AwardedNotification 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-AwardedNotification-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="billoflading">ubl-billoflading-2.2</identifier>
+		<title>UBL BillOfLading 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-BillOfLading-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="businesscard">ubl-businesscard-2.2</identifier>
+		<title>UBL BusinessCard 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-BusinessCard-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="callfortenders">ubl-callfortenders-2.2</identifier>
+		<title>UBL CallForTenders 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-CallForTenders-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="catalogue">ubl-catalogue-2.2</identifier>
+		<title>UBL Catalogue 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-Catalogue-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="cataloguedeletion">ubl-cataloguedeletion-2.2</identifier>
+		<title>UBL CatalogueDeletion 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-CatalogueDeletion-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="catalogueitemspecificationupdate">ubl-catalogueitemspecificationupdate-2.2</identifier>
+		<title>UBL CatalogueItemSpecificationUpdate 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-CatalogueItemSpecificationUpdate-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="cataloguepricingupdate">ubl-cataloguepricingupdate-2.2</identifier>
+		<title>UBL CataloguePricingUpdate 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-CataloguePricingUpdate-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="cataloguerequest">ubl-cataloguerequest-2.2</identifier>
+		<title>UBL CatalogueRequest 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-CatalogueRequest-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="certificateoforigin">ubl-certificateoforigin-2.2</identifier>
+		<title>UBL CertificateOfOrigin 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-CertificateOfOrigin-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="contractawardnotice">ubl-contractawardnotice-2.2</identifier>
+		<title>UBL ContractAwardNotice 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-ContractAwardNotice-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="contractnotice">ubl-contractnotice-2.2</identifier>
+		<title>UBL ContractNotice 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-ContractNotice-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="creditnote">ubl-creditnote-2.2</identifier>
+		<title>UBL CreditNote 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-CreditNote-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="debitnote">ubl-debitnote-2.2</identifier>
+		<title>UBL DebitNote 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-DebitNote-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="despatchadvice">ubl-despatchadvice-2.2</identifier>
+		<title>UBL DespatchAdvice 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-DespatchAdvice-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="digitalagreement">ubl-digitalagreement-2.2</identifier>
+		<title>UBL DigitalAgreement 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-DigitalAgreement-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="digitalcapability">ubl-digitalcapability-2.2</identifier>
+		<title>UBL DigitalCapability 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-DigitalCapability-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="documentstatus">ubl-documentstatus-2.2</identifier>
+		<title>UBL DocumentStatus 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-DocumentStatus-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="documentstatusrequest">ubl-documentstatusrequest-2.2</identifier>
+		<title>UBL DocumentStatusRequest 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-DocumentStatusRequest-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="enquiry">ubl-enquiry-2.2</identifier>
+		<title>UBL Enquiry 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-Enquiry-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="enquiryresponse">ubl-enquiryresponse-2.2</identifier>
+		<title>UBL EnquiryResponse 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-EnquiryResponse-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="exceptioncriteria">ubl-exceptioncriteria-2.2</identifier>
+		<title>UBL ExceptionCriteria 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-ExceptionCriteria-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="exceptionnotification">ubl-exceptionnotification-2.2</identifier>
+		<title>UBL ExceptionNotification 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-ExceptionNotification-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="expressionofinterestrequest">ubl-expressionofinterestrequest-2.2</identifier>
+		<title>UBL ExpressionOfInterestRequest 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-ExpressionOfInterestRequest-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="expressionofinterestresponse">ubl-expressionofinterestresponse-2.2</identifier>
+		<title>UBL ExpressionOfInterestResponse 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-ExpressionOfInterestResponse-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="forecast">ubl-forecast-2.2</identifier>
+		<title>UBL Forecast 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-Forecast-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="forecastrevision">ubl-forecastrevision-2.2</identifier>
+		<title>UBL ForecastRevision 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-ForecastRevision-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="forwardinginstructions">ubl-forwardinginstructions-2.2</identifier>
+		<title>UBL ForwardingInstructions 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-ForwardingInstructions-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="freightinvoice">ubl-freightinvoice-2.2</identifier>
+		<title>UBL FreightInvoice 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-FreightInvoice-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="fulfilmentcancellation">ubl-fulfilmentcancellation-2.2</identifier>
+		<title>UBL FulfilmentCancellation 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-FulfilmentCancellation-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="goodsitemitinerary">ubl-goodsitemitinerary-2.2</identifier>
+		<title>UBL GoodsItemItinerary 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-GoodsItemItinerary-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="guaranteecertificate">ubl-guaranteecertificate-2.2</identifier>
+		<title>UBL GuaranteeCertificate 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-GuaranteeCertificate-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="instructionforreturns">ubl-instructionforreturns-2.2</identifier>
+		<title>UBL InstructionForReturns 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-InstructionForReturns-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="inventoryreport">ubl-inventoryreport-2.2</identifier>
+		<title>UBL InventoryReport 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-InventoryReport-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="invoice">ubl-invoice-2.2</identifier>
+		<title>UBL Invoice 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-Invoice-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="iteminformationrequest">ubl-iteminformationrequest-2.2</identifier>
+		<title>UBL ItemInformationRequest 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-ItemInformationRequest-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="order">ubl-order-2.2</identifier>
+		<title>UBL Order 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-Order-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="ordercancellation">ubl-ordercancellation-2.2</identifier>
+		<title>UBL OrderCancellation 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-OrderCancellation-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="orderchange">ubl-orderchange-2.2</identifier>
+		<title>UBL OrderChange 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-OrderChange-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="orderresponse">ubl-orderresponse-2.2</identifier>
+		<title>UBL OrderResponse 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-OrderResponse-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="orderresponsesimple">ubl-orderresponsesimple-2.2</identifier>
+		<title>UBL OrderResponseSimple 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-OrderResponseSimple-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="packinglist">ubl-packinglist-2.2</identifier>
+		<title>UBL PackingList 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-PackingList-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="priorinformationnotice">ubl-priorinformationnotice-2.2</identifier>
+		<title>UBL PriorInformationNotice 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-PriorInformationNotice-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="productactivity">ubl-productactivity-2.2</identifier>
+		<title>UBL ProductActivity 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-ProductActivity-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="qualificationapplicationrequest">ubl-qualificationapplicationrequest-2.2</identifier>
+		<title>UBL QualificationApplicationRequest 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-QualificationApplicationRequest-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="qualificationapplicationresponse">ubl-qualificationapplicationresponse-2.2</identifier>
+		<title>UBL QualificationApplicationResponse 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-QualificationApplicationResponse-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="quotation">ubl-quotation-2.2</identifier>
+		<title>UBL Quotation 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-Quotation-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="receiptadvice">ubl-receiptadvice-2.2</identifier>
+		<title>UBL ReceiptAdvice 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-ReceiptAdvice-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="reminder">ubl-reminder-2.2</identifier>
+		<title>UBL Reminder 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-Reminder-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="remittanceadvice">ubl-remittanceadvice-2.2</identifier>
+		<title>UBL RemittanceAdvice 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-RemittanceAdvice-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="requestforquotation">ubl-requestforquotation-2.2</identifier>
+		<title>UBL RequestForQuotation 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-RequestForQuotation-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="retailevent">ubl-retailevent-2.2</identifier>
+		<title>UBL RetailEvent 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-RetailEvent-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="selfbilledcreditnote">ubl-selfbilledcreditnote-2.2</identifier>
+		<title>UBL SelfBilledCreditNote 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-SelfBilledCreditNote-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="selfbilledinvoice">ubl-selfbilledinvoice-2.2</identifier>
+		<title>UBL SelfBilledInvoice 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-SelfBilledInvoice-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="statement">ubl-statement-2.2</identifier>
+		<title>UBL Statement 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-Statement-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="stockavailabilityreport">ubl-stockavailabilityreport-2.2</identifier>
+		<title>UBL StockAvailabilityReport 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-StockAvailabilityReport-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="tender">ubl-tender-2.2</identifier>
+		<title>UBL Tender 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-Tender-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="tendercontract">ubl-tendercontract-2.2</identifier>
+		<title>UBL TenderContract 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-TenderContract-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="tenderreceipt">ubl-tenderreceipt-2.2</identifier>
+		<title>UBL TenderReceipt 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-TenderReceipt-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="tenderstatus">ubl-tenderstatus-2.2</identifier>
+		<title>UBL TenderStatus 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-TenderStatus-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="tenderstatusrequest">ubl-tenderstatusrequest-2.2</identifier>
+		<title>UBL TenderStatusRequest 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-TenderStatusRequest-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="tenderwithdrawal">ubl-tenderwithdrawal-2.2</identifier>
+		<title>UBL TenderWithdrawal 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-TenderWithdrawal-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="tendererqualification">ubl-tendererqualification-2.2</identifier>
+		<title>UBL TendererQualification 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-TendererQualification-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="tendererqualificationresponse">ubl-tendererqualificationresponse-2.2</identifier>
+		<title>UBL TendererQualificationResponse 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-TendererQualificationResponse-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="tradeitemlocationprofile">ubl-tradeitemlocationprofile-2.2</identifier>
+		<title>UBL TradeItemLocationProfile 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-TradeItemLocationProfile-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="transportexecutionplan">ubl-transportexecutionplan-2.2</identifier>
+		<title>UBL TransportExecutionPlan 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-TransportExecutionPlan-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="transportexecutionplanrequest">ubl-transportexecutionplanrequest-2.2</identifier>
+		<title>UBL TransportExecutionPlanRequest 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-TransportExecutionPlanRequest-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="transportprogressstatus">ubl-transportprogressstatus-2.2</identifier>
+		<title>UBL TransportProgressStatus 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-TransportProgressStatus-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="transportprogressstatusrequest">ubl-transportprogressstatusrequest-2.2</identifier>
+		<title>UBL TransportProgressStatusRequest 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-TransportProgressStatusRequest-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="transportservicedescription">ubl-transportservicedescription-2.2</identifier>
+		<title>UBL TransportServiceDescription 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-TransportServiceDescription-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="transportservicedescriptionrequest">ubl-transportservicedescriptionrequest-2.2</identifier>
+		<title>UBL TransportServiceDescriptionRequest 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-TransportServiceDescriptionRequest-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="transportationstatus">ubl-transportationstatus-2.2</identifier>
+		<title>UBL TransportationStatus 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-TransportationStatus-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="transportationstatusrequest">ubl-transportationstatusrequest-2.2</identifier>
+		<title>UBL TransportationStatusRequest 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-TransportationStatusRequest-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="unawardednotification">ubl-unawardednotification-2.2</identifier>
+		<title>UBL UnawardedNotification 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-UnawardedNotification-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="unsubscribefromprocedurerequest">ubl-unsubscribefromprocedurerequest-2.2</identifier>
+		<title>UBL UnsubscribeFromProcedureRequest 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-UnsubscribeFromProcedureRequest-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="unsubscribefromprocedureresponse">ubl-unsubscribefromprocedureresponse-2.2</identifier>
+		<title>UBL UnsubscribeFromProcedureResponse 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-UnsubscribeFromProcedureResponse-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="utilitystatement">ubl-utilitystatement-2.2</identifier>
+		<title>UBL UtilityStatement 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-UtilityStatement-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="waybill">ubl-waybill-2.2</identifier>
+		<title>UBL Waybill 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-Waybill-2.2.xsd" />
+	</configuration>
+	<configuration>
+		<identifier alias="weightstatement">ubl-weightstatement-2.2</identifier>
+		<title>UBL WeightStatement 2.2</title>
+		<file type="xml.xsd" path="maindoc/UBL-WeightStatement-2.2.xsd" />
+	</configuration>
+	<include path="common/CCTS_CCT_SchemaModule-2.2.xsd" />
+	<include path="common/UBL-CommonAggregateComponents-2.2.xsd" />
+	<include path="common/UBL-CommonBasicComponents-2.2.xsd" />
+	<include path="common/UBL-CommonExtensionComponents-2.2.xsd" />
+	<include path="common/UBL-CommonSignatureComponents-2.2.xsd" />
+	<include path="common/UBL-ExtensionContentDataType-2.2.xsd" />
+	<include path="common/UBL-QualifiedDataTypes-2.2.xsd" />
+	<include path="common/UBL-SignatureAggregateComponents-2.2.xsd" />
+	<include path="common/UBL-SignatureBasicComponents-2.2.xsd" />
+	<include path="common/UBL-UnqualifiedDataTypes-2.2.xsd" />
+	<include path="common/UBL-XAdES01903v132-201601-2.2.xsd" />
+	<include path="common/UBL-XAdES01903v141-201601-2.2.xsd" />
+	<include path="common/UBL-xmldsig-core-schema-2.2.xsd" />
+	<include path="common/UBL-xmldsig1-schema-2.2.xsd" />
+	<include path="common/UBL-xmldsig11-schema-2.2.xsd" />
+</buildConfigurations>
