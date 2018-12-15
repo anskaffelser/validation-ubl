@@ -155,16 +155,6 @@
 		<title>UBL Waybill 2.0</title>
 		<file type="xml.xsd" path="maindoc/UBL-Waybill-2.0.xsd" />
 	</configuration>
-	<include path="common/CCTS_CCT_SchemaModule-2.0.xsd" />
-	<include path="common/CodeList_CurrencyCode_ISO_7_04.xsd" />
-	<include path="common/CodeList_LanguageCode_ISO_7_04.xsd" />
-	<include path="common/CodeList_MIMEMediaTypeCode_IANA_7_04.xsd" />
-	<include path="common/CodeList_UnitCode_UNECE_7_04.xsd" />
-	<include path="common/UBL-CommonAggregateComponents-2.0.xsd" />
-	<include path="common/UBL-CommonBasicComponents-2.0.xsd" />
-	<include path="common/UBL-CommonExtensionComponents-2.0.xsd" />
-	<include path="common/UBL-CoreComponentParameters-2.0.xsd" />
-	<include path="common/UBL-ExtensionContentDatatype-2.0.xsd" />
-	<include path="common/UBL-QualifiedDatatypes-2.0.xsd" />
-	<include path="common/UnqualifiedDataTypeSchemaModule-2.0.xsd" />
+
+	<include path="common" />
 </buildConfigurations>

@@ -325,18 +325,6 @@
 		<title>UBL Waybill 2.1</title>
 		<file type="xml.xsd" path="maindoc/UBL-Waybill-2.1.xsd" />
 	</configuration>
-	<include path="common/CCTS_CCT_SchemaModule-2.1.xsd" />
-	<include path="common/UBL-CommonAggregateComponents-2.1.xsd" />
-	<include path="common/UBL-CommonBasicComponents-2.1.xsd" />
-	<include path="common/UBL-CommonExtensionComponents-2.1.xsd" />
-	<include path="common/UBL-CommonSignatureComponents-2.1.xsd" />
-	<include path="common/UBL-CoreComponentParameters-2.1.xsd" />
-	<include path="common/UBL-ExtensionContentDataType-2.1.xsd" />
-	<include path="common/UBL-QualifiedDataTypes-2.1.xsd" />
-	<include path="common/UBL-SignatureAggregateComponents-2.1.xsd" />
-	<include path="common/UBL-SignatureBasicComponents-2.1.xsd" />
-	<include path="common/UBL-UnqualifiedDataTypes-2.1.xsd" />
-	<include path="common/UBL-XAdESv132-2.1.xsd" />
-	<include path="common/UBL-XAdESv141-2.1.xsd" />
-	<include path="common/UBL-xmldsig-core-schema-2.1.xsd" />
+
+	<include path="common" />
 </buildConfigurations>
